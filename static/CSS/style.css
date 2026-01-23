@@ -1,0 +1,70 @@
+header{
+    padding: 10px;
+    text-align: center;
+    background-color: goldenrod;
+    /* spam */
+}
+.navigate ul li{
+    display: inline;
+    margin: 20px;
+}
+.navigate ul li a{
+    font-family: arial;
+    font-weight: 600;
+    font-size: 120%;
+}
+.navigate ul li a:hover{
+    color: yellow;
+    background-color: ;
+}
+footer{
+    background-color: goldenrod;
+    padding: 10px;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li{
+    display: inline;
+    margin: 10px;
+}
+h1{
+    color: brown;
+    font-size: 300%;
+}
+h2{
+    font-size: 200%;
+}
+h3{
+    text-decoration: underline;
+}
+body{
+    background-color: beige;
+}
+dt{
+    font-weight: bolder;
+}
+form{
+    border: 2px solid chocolate;
+    padding: 10px;
+    margin: 10px;
+}
+input, textarea{
+    width: 100%;
+    border: 1px solid brown;
+}
+button{
+    margin: 10px;
+    background-color: darkgoldenrod;
+    height: 30px;
+    width: 100px;
+}
+button:hover{
+    background-color: chartreuse;
+}
+#myfooter{
+    display: flex;
+}
+.foot{
+    flex: 1;
+}
